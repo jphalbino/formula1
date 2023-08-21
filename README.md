@@ -22,6 +22,7 @@ O dashboard é construído utilizando as seguintes tecnologias e ferramentas:
 
 - POWER BI
 - DAX e LINGUAGEM M do POWER QUERY
+- ETL - (EXTRACT, TRANSFORM, LOAD)
 - DATAVIZ
 - ANÁLISE DE DADOS
 
