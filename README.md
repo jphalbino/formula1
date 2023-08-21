@@ -1,6 +1,4 @@
-# formula1
-
-# Dashboard de Dados da Fórmula 1
+# Dashboard da Fórmula 1
 
 Bem-vindo ao Dashboard de Dados da Fórmula 1! Este repositório contém uma coleção abrangente de dados históricos da Fórmula 1, que abrange desde o ano de 1950 até os dias atuais. Os dados são obtidos por meio de arquivos CSV fornecidos pelo site [Ergast](https://ergast.com/mrd/), ao qual agradecemos pela disponibilização desse valioso banco de dados.
 
